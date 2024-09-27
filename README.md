@@ -7,7 +7,7 @@ Level editor for [Snake Puzzles](https://github.com/logchan/SnakePuzzles).
 
 ## How to use
 
-You can try the editor here: [https://logu.cc/snake-puzzles-editor]
+You can try the editor here: [https://logu.cc/snake-puzzles-editor](https://logu.cc/snake-puzzles-editor)
 
 Click the `?` on the top bar for usage. Save the JSON file and put it here to play in game:
 
